@@ -712,7 +712,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/friday/Desktop/Neoland/fullstack-bootcamp/Contents/01-Front-end/05-Angular/05-Routing/spotify/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /Users/friday/Desktop/Neoland/02. Angular/spotify/src/main.ts */"./src/main.ts");
 
 
 /***/ })
