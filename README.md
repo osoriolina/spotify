@@ -1,4 +1,4 @@
-# Spotify <img src="https://github.com/osoriolina/spotify/blob/master/src/assets/logo_verde.png">
+# <img style="width: 100px;" src="https://github.com/osoriolina/spotify/blob/master/src/assets/logo_verde.png">
 
 ## This is a project aimed to demonstrate the ability of replicating a famous web application such as Spotify
 
