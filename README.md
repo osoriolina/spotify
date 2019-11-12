@@ -1,4 +1,4 @@
-# Spotify <img src="assets/logo.png">
+# Spotify <img src="./assets/logo.png">
 
 ## This is a project aimed to demonstrate the ability of replicating a famous web application such as Spotify
 
@@ -6,9 +6,9 @@ This version of Spotify was developed with the look and feel that the website ha
 
 ## Features ★★★
 
-★ You can select the song that you want to play 
-★ Volume control 
-★ Visible songs lengths 
+★ You can select the song that you want to play </br>
+★ Volume control </br>
+★ Visible songs lengths </br>
 
 
 ## How does it work? ★★★
@@ -16,11 +16,11 @@ This version of Spotify was developed with the look and feel that the website ha
 This project was generated with [Angular CLI] version 8.3.17. It has two components that share data with a service module. The biggest challene was to replicate the graphic components and animations to get as close as possible to the original look and feel of the web application. The goal is to demonstrate the ability to capture and execute the UI/UX designer's ideas, thoughts and requirements. 
 
 ## STACK
-★ Angular  v.8.3.17
-★ Bootstrap v.4.3.0
-★ CSS 3 
-★ JavaScript ES6
-★ TypeScript 3
+★ Angular  v.8.3.17 </br>
+★ Bootstrap v.4.3.0 </br>
+★ CSS 3 </br>
+★ JavaScript ES6 </br>
+★ TypeScript 3 </br>
 ★ HTML 5
 
 ## How does it work? - Quick start guide! 
@@ -46,5 +46,5 @@ Licencia MIT
 
 ## Preview
 
-<img src="assets/preview_1.png">
-<img src="assets/preview_2.png">
+<img src="./assets/preview_1.png">
+<img src="./assets/preview_2.png">
