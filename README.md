@@ -1,4 +1,4 @@
-# Spotify <img src="./assets/logo.png">
+# Spotify <img src="./assets/logo_verde.png">
 
 ## This is a project aimed to demonstrate the ability of replicating a famous web application such as Spotify
 
@@ -46,5 +46,5 @@ Licencia MIT
 
 ## Preview
 
-<img src="./assets/preview_1.png">
-<img src="./assets/preview_2.png">
+<img src="https://github.com/osoriolina/spotify/blob/master/src/assets/preview_1.png">
+<img src="https://github.com/osoriolina/spotify/blob/master/src/assets/preview_2.png">
