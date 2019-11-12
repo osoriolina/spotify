@@ -1,27 +1,50 @@
-# Spotify
+# Spotify <img src="assets/logo.png">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
+## This is a project aimed to demonstrate the ability of replicating a famous web application such as Spotify
 
-## Development server
+This version of Spotify was developed with the look and feel that the website had on November 8th 2019. Making use of two views, Home and the audio player with a collection of selected songs. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Features ★★★
 
-## Code scaffolding
+★ You can select the song that you want to play 
+★ Volume control 
+★ Visible songs lengths 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## How does it work? ★★★
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+This project was generated with [Angular CLI] version 8.3.17. It has two components that share data with a service module. The biggest challene was to replicate the graphic components and animations to get as close as possible to the original look and feel of the web application. The goal is to demonstrate the ability to capture and execute the UI/UX designer's ideas, thoughts and requirements. 
 
-## Running unit tests
+## STACK
+★ Angular  v.8.3.17
+★ Bootstrap v.4.3.0
+★ CSS 3 
+★ JavaScript ES6
+★ TypeScript 3
+★ HTML 5
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## How does it work? - Quick start guide! 
 
-## Running end-to-end tests
+* git clone
+    * This is the link: https://github.com/osoriolina/spotify.git
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* This project is using Angular  v.8.3.17
+* Install the CDN and/or libraries of Bootstrap v.4.3.0
+* Don't forget to check the path of the assets 
 
-## Further help
+## Next!
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+There are several improvements to be done that include: 
+* The audio player with progress bar and closer to the look and feel of the original web app 
+* CSS elements 
+* New features to add songs to favourites
+* Include the complete albums
+
+## Legal Terms
+
+Licencia MIT
+
+## Preview
+
+<img src="assets/preview_1.png">
+<img src="assets/preview_2.png">
